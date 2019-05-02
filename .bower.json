@@ -1,0 +1,13 @@
+{
+  "name": "threejs-examples",
+  "homepage": "https://github.com/legworkstudio/threejs-examples",
+  "_release": "08eb063e2d",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "08eb063e2db12e72a12d2ec136a74cd3a3dcee62"
+  },
+  "_source": "https://github.com/legworkstudio/threejs-examples.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/legworkstudio/threejs-examples.git"
+}
